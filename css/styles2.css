@@ -1,0 +1,19 @@
+h1 {
+  color: greenyellow;
+  text-align: center;
+}
+h2 {
+  color: blue;
+  font-style: normal;
+  text-align: left;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
+  text-align: left;
+}
+
+ul {
+  font-size: 15px;
+  line-height: 25px;
+}
