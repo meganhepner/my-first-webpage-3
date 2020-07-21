@@ -1,31 +1,27 @@
-# My Frist Webpage
+# My First Webpage
 
-#### _A website created by me, May 26th 2020_
+#### _CSS Practice, May 26th 2020_
 
-#### By _Allison Sadin_
+#### By _Allison Sadin & Megan Hepner_
 
 ## Description
 
-This website explains the things I have learned so far at Epicodus and has allowed me to practice in HTML!
+This webpage experiments with using CSS.
 
 ## Setup/Installation Requirements
 
-* _clone repository_
-* _open web browser_
-* _copy and paste URL into browser_
-* _hit enter_
-
-
-
+* to clone this content, copy the url provided by the 'clone or download' button in GitHub
+* in the terminal use the command 'git clone (GitHub url)'
+* open the content in a web browser
 
 ## Support and contact details
 
-_For questions concerns or contributions, contact Allison Sadin
-at allisonsadin@gmail.com_
+_For questions concerns or contributions, contact Megan Hepner
 
 ## Technologies Used
 
 * _HTML_
+* _CSS_
 
 ### License
 
